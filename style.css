@@ -5,3 +5,15 @@
 html {
     text-align: center;
 }
+
+.WACSSA_IAC {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.WACSSA_IAC img {
+    width: 100%;
+    height: 300px;
+}
+
